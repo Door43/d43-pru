@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pru:home|Door43 (pru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pru|d43-pru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pru/archive/master.zip|d43-pru.zip]]
+
+**Recent Changes**
+{{changes>ns = pru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pru|Ethnologue data]]
+
